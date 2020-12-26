@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/8.5.24/gemini_images_8.5.24_20180524.0000.00_8.0_cn_390d99a5ba.tgz
+  ROM_URL: http://bigota.d.miui.com/V12.0.15.0.QJJCNXM/cas_images_V12.0.15.0.QJJCNXM_20201209.0000.00_10.0_cn_77d730d8ca.tgz
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
