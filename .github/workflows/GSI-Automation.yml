@@ -37,6 +37,7 @@ jobs:
        
        - name: Setting up ErfanGSI requirements
          run: |
+              sudo mv ErfanGSIs-VelanGSIs ErfanGSIs
               sudo chmod -R 777 ErfanGSIs
               cd ErfanGSIs
               sudo bash setup.sh
